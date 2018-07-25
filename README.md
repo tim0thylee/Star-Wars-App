@@ -4,9 +4,9 @@ A star wars RPG game. Player will choose a character they wish to play with. The
 
 **Technologies Used**:
 
-*HTML
-*CSS
-*jQuery
-*Materialize
+* HTML
+* CSS
+* jQuery
+* Materialize
 
 [Click here to play!](https://star-wars-app-vsfykhpooj.now.sh )
