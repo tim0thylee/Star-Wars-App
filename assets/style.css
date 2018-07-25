@@ -1,0 +1,20 @@
+h1 {
+    text-align: center;
+}
+
+body {
+    color: white;
+}
+
+.character-name {
+    z-index: 1;
+}
+
+#you-win-text {
+    font-size: 25px;
+    margin: 10px;
+}
+
+.character-health{
+    color: black;
+}
