@@ -8,3 +8,5 @@ HTML
 CSS
 jQuery
 Materialize
+
+[Click here to play!](https://star-wars-app-vsfykhpooj.now.sh )

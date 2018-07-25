@@ -13,21 +13,21 @@ $(document).ready(function(){
             health: 110,
             attack: 7,
             image: "./assets/images/luke.jpg",
-            returnAttack: 15
+            returnAttack: 17
         },
         "Darth Maul": {
             name: "Darth Maul",
             health: 140,
             attack: 5,
             image: "./assets/images/darthmaul.jpg",
-            returnAttack: 16
+            returnAttack: 18
         },
         "Qui-Gon Jinn": {
             name: "Qui-Gon Jinn",
             health: 90,
             attack: 12,
             image: "./assets/images/Qui-Gon-Jinn.jpeg",
-            returnAttack: 16
+            returnAttack: 19
         }
     };
 

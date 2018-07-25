@@ -12,9 +12,15 @@ body {
 
 #you-win-text {
     font-size: 25px;
-    margin: 10px;
+    margin: 20px;
+
 }
 
 .character-health{
     color: black;
 }
+
+#attack-button-div{
+    margin-top: 10px
+}
+
